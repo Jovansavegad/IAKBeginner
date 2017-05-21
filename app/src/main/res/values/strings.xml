@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IAK Beginner</string>
+    <string name="hbd">Happy Birthday</string>
+    <string name="from">From:Jovansgha</string>
+    <string name="your_name">Input Your Name</string>
+    <string name="copyright">&#169;2017 Copyright Jovansgha</string>
+</resources>
